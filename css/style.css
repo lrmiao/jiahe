@@ -67,6 +67,12 @@ ul, ol {
 	webkit-padding: 0;
 	moz-padding: 0;
 }
+.cele{
+	margin:auto;
+	width:720px;
+	text-align:left;
+}
+
 /* Navigation */
 .navbar-custom {
 	margin-bottom: 0;
@@ -708,5 +714,6 @@ nav#footer p {
 #footer i.fa:hover {
 	color: #F4D03F;
 }
+
 
 
